@@ -1,5 +1,5 @@
-import numpy as np
 import matplotlib.pyplot as plt
+import numpy as np
 
 # データの作成
 x = np.arange(0, 6, 0.1)
