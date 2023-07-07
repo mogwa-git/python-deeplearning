@@ -1,1 +1,1 @@
-# python-deeplearning
+# Pythonで学ぶDeepLearningの理論と実装
